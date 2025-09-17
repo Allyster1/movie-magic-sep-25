@@ -6,10 +6,10 @@ const app = express();
 
 // Setup Handlebars
 app.engine(
-  "hbs",
-  handlebars.engine({
-    extname: "hbs",
-  })
+   "hbs",
+   handlebars.engine({
+      extname: "hbs",
+   })
 );
 
 app.set("view engine", "hbs");
@@ -22,6 +22,4 @@ app.use(express.static("src/public"));
 app.use(homeController);
 
 // Start Server
-app.listen(5000, () =>
-  console.log("Server is running on port http://localhost:5000")
-);
+app.listen(5000, () => console.log("Server is running on port http://localhost:5000"));
