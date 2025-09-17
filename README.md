@@ -41,4 +41,11 @@ SoftUni JS Back End Course Workshop
 -  [x] Redirect after creation
 -  [x] Add unique id for the created movie `npm i uuid`
 
+### Details
+
+### Search
+
+### Bonus
+
+-  [] File Persistance
 -  [] Add 404 page
