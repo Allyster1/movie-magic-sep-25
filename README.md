@@ -21,7 +21,7 @@ SoftUni JS Back End Course Workshop
 ### Architecture (3 layer - Controller, Service, Data)
 
 - [x] Add home controller
-- [] Add movie data layer
+- [x] Add movie data layer
 - [] Add movie service
 - [] Render movies on home page
 - [] Show no movies screen
