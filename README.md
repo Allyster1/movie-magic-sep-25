@@ -6,6 +6,6 @@ SoftUni JS Back End Course Workshop
 
 - [x] Initialize Project
 - [x] Add Express Server
-- [] Add Workshop Resources
+- [x] Add Workshop Resources
 - [] Setup Handlebars
 - [] Render home page
