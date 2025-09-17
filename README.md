@@ -23,7 +23,7 @@ SoftUni JS Back End Course Workshop
 - [x] Add home controller
 - [x] Add movie data layer
 - [x] Add movie service
-- [] Render movies on home page
+- [x] Render dynamic movies on home page
 - [] Show no movies screen
 
 ---
