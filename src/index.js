@@ -1,8 +1,6 @@
 import express from "express";
 import handlebars from "express-handlebars";
-
 import routes from "./routes.js";
-
 const app = express();
 
 // Setup Handlebars
@@ -16,7 +14,7 @@ app.engine(
 app.set("view engine", "hbs");
 app.set("views", "src/views");
 
-// Setup static middlewares
+// Setup static middleware
 app.use(express.static("src/public"));
 
 // Parse form data from req
@@ -26,4 +24,4 @@ app.use(express.urlencoded());
 app.use(routes);
 
 // Start Server
-app.listen(5000, () => console.log("Server is running on port http://localhost:5000"));
+app.listen(5000, () => console.log("Server is listening on http://localhost:5000..."));
