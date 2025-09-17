@@ -39,6 +39,6 @@ SoftUni JS Back End Course Workshop
 -  -  [x] Add service
 -  -  [x] Add model method for creating movie
 -  [x] Redirect after creation
--  [] Add unique id for the created movie
+-  [x] Add unique id for the created movie `npm i uuid`
 
 -  [] Add 404 page
