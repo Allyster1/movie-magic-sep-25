@@ -9,5 +9,6 @@ SoftUni JS Back End Course Workshop
 - [x] Add Workshop Resources
 - [x] Setup Handlebars
 - [x] Setup static files
-- [] Render home page
--
+- [x] Add Launch Debugger
+- [x] Render home page
+
