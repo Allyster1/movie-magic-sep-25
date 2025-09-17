@@ -33,6 +33,7 @@ SoftUni JS Back End Course Workshop
 -  [x] Add movie Controller
 -  [x] Show Create movie page
 -  [x] Add routes
+-  -  [x] Add 404 page
 -  [x] Read body data with body parser
 -  [x] Create movie
 -  -  [x] Add action
@@ -48,4 +49,3 @@ SoftUni JS Back End Course Workshop
 ### Bonus
 
 -  [] File Persistance
--  [] Add 404 page
