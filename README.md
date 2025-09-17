@@ -24,7 +24,7 @@ SoftUni JS Back End Course Workshop
 - [x] Add movie data layer
 - [x] Add movie service
 - [x] Render dynamic movies on home page
-- [] Show no movies screen
+- [x] Show no movies screen
 
 ---
 
