@@ -12,4 +12,4 @@ SoftUni JS Back End Course Workshop
 - [x] Add Launch Debugger
 - [x] Render home page
 - [x] Add Layout
-- [] Render About page
+- [x] Render About page
