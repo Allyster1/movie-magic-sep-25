@@ -1,0 +1,22 @@
+{
+  "name": "movie-magic-sep-25",
+  "version": "1.0.0",
+  "description": "SoftUni JS Back End Course Workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allyster1/movie-magic-sep-25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allyster1/movie-magic-sep-25/issues"
+  },
+  "homepage": "https://github.com/Allyster1/movie-magic-sep-25#readme"
+}
