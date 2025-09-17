@@ -59,7 +59,7 @@ SoftUni JS Back End Course Workshop
 -  -  [x] By Year
 -  -  [x] By Genre
 -  -  [x] By Title
--  [] Remember search words
+-  [x] Remember search words
 
 ### Bonus
 
