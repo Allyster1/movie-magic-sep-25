@@ -30,6 +30,13 @@ SoftUni JS Back End Course Workshop
 
 ### Create Movie
 
--  [ ] Create movie page
--  [ ] Add routes
--  [ ] Add 404 page
+-  [x] Add movie Controller
+-  [] Show Create movie page
+-  [] Add routes
+-  [] Read body data with body parser
+-  [] Create movie
+-  -  [] Add action
+-  -  [] Add model method for creating movie
+-  -  [] Add service
+
+-  [] Add 404 page
