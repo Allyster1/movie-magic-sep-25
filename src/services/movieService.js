@@ -5,8 +5,8 @@ export default {
       return Movie.find();
    },
 
-   getOne() {
-      return Movie.find({ _id: movieId });
+   getOne(movieId) {
+      return Movie.findOne({ _id: movieId });
    },
    create(movieData) {
       const movie = new Movie(movieData);
