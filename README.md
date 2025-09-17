@@ -8,4 +8,6 @@ SoftUni JS Back End Course Workshop
 - [x] Add Express Server
 - [x] Add Workshop Resources
 - [x] Setup Handlebars
+- [x] Setup static files
 - [] Render home page
+-
