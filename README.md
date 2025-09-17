@@ -32,7 +32,7 @@ SoftUni JS Back End Course Workshop
 
 -  [x] Add movie Controller
 -  [x] Show Create movie page
--  [] Add routes
+-  [x] Add routes
 -  [] Read body data with body parser
 -  [] Create movie
 -  -  [] Add action
